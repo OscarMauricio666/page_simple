@@ -1,0 +1,45 @@
+.main {
+  width: 98vw;
+  margin-left: auto;
+  margin-right: auto;
+}
+.head {
+  width: 100%;
+  height: 9vh;
+  border: 2px solid black;
+}
+nav {
+  border: 2px solid black;
+  width: 100%;
+}
+.seccion {
+  width: 100%;
+  height: 75vh;
+  border: 2px solid black;
+}
+.bodys {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  border: 2px solid black;
+  align-items: center;
+}
+.con_izq {
+  border: 1px solid black;
+  width: 47%;
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.con_der {
+  border: 1px solid black;
+  width: 47%;
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.pie {
+  width: 100%;
+  border: 1px solid black;
+  text-align: center;
+}
